@@ -252,9 +252,9 @@ Uncomment the `tfoot` element and its children from the `index.html` file:
 ```html
 <table>
   <tbody>
-    <!-- ... -->
+    <-- ... -->
   </tbody>
-  <!-- <tfoot>
+  <-- <tfoot>
     <tr class="create-product">
       <td>
         <input type="text" placeholder="Product Name" />
